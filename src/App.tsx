@@ -175,7 +175,7 @@ function App() {
               },
               { 
                 title: "Tools & Other", 
-                skills: ["Git", "MySQL", "Appium", "OpenCV", "Tesseract OCR"] 
+                skills: ["Git", "Postman","RTK"] 
               }
             ].map((category, i) => (
               <div key={i} className="p-6 rounded-xl bg-gray-800/50 backdrop-blur-sm border border-gray-700 hover:border-purple-400 transition-all duration-500">
