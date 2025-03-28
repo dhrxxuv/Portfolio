@@ -249,7 +249,6 @@ function App() {
                 </div>
                 <GraduationCap className="w-12 h-12 text-purple-400" />
               </div>
-              <p className="text-gray-400">Specialized in software development and web technologies</p>
             </div>
           </div>
         </div>
