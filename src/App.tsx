@@ -70,6 +70,14 @@ function App() {
       codeLink: "https://github.com/dhrxxuv/Todo-App",
       demoLink: "#",
       accentColor: "bg-yellow-500"
+    },
+    {
+      title: "TechiesMate",
+      description: "A FullStack WebApp Where Different User can Connect with each other by liking their profile ",
+      tags: ["React", "Express.js", "MongoDB", "REST API","WebSocker","Redux Toolkit", "Node.js"],
+      codeLink: "https://github.com/dhrxxuv/TechiesMateWeb",
+      demoLink: "https://techiesmate.biz/",
+      accentColor: "bg-yellow-500"
     }
   ];
 

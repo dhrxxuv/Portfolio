@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
   "dev": "vite",
-  "build": "vite build",
+  "build": "vite build && echo 'Build completed successfully' && echo 'Deploying to GitHub Pages...' && npm run deploy && echo 'Deployment completed successfully'",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
 },
