@@ -4,12 +4,11 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build && echo 'Build completed successfully' && echo 'Deploying to GitHub Pages...' && npm run deploy && echo 'Deployment completed successfully'",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-},
-
+    "dev": "vite",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
   "dependencies": {
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
@@ -33,5 +32,4 @@
     "vite": "^5.4.2"
   },
   "homepage": "https://dhrxxuv.github.io/Portfolio/"
-
 }
