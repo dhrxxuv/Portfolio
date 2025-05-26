@@ -144,7 +144,7 @@ function App() {
               </a>
             </div>
             
-            <a href="https://drive.google.com/file/d/1sug9J9brusMcox-TzKg1i-rkj6FBjs8X/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="relative inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg overflow-hidden group">
+            <a href="https://drive.google.com/file/d/1GR9PiwyfvBdwaNdY71l1-n4zCOeC3lFJ/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="relative inline-flex items-center gap-3 px-8 py-4 bg-gradient-to-r from-purple-600 to-pink-600 rounded-lg overflow-hidden group">
               <span className="relative z-10 font-bold text-lg flex items-center gap-2">
                 <Download className="w-5 h-5 group-hover:animate-bounce" />
                 Download Resume
